@@ -1,6 +1,6 @@
 # PassportAuthentication
 
-
+Please refer to the google docs file on bootcamp for a cleaner version. 
 
 Understanding PassportAuthentication created by Marlon Mora
 
